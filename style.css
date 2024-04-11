@@ -1,0 +1,59 @@
+body{
+    background-color: #f1f1f1;
+}
+
+.conreiner {
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.number1 {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.number2 {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.operator {
+ display: flex;
+ flex-direction: row;
+ width: 200px;
+ justify-content: space-between;
+}
+.num1 {
+    height: 40px;
+    width: 45px;
+}
+.num2 {
+    height: 40px;
+    width: 45px;
+}
+.num3 {
+    height: 40px;
+    width: 45px;
+}
+.num4 {
+    height: 40px;
+    width: 45px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.res {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
